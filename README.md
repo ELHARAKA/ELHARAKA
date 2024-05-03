@@ -1,6 +1,6 @@
-<h1 align="center">👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elharaka&label=Profile%20views&color=0e75b6&style=flat" alt="elharaka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elharaka&theme=onedark&row=1" alt="elharaka" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elharaka&theme=onedark&row=1" alt="elharaka" /></a> </p>
 
 ### About Me 🌐
 
@@ -105,5 +105,3 @@ Feel free to reach out if you're interested in collaborating on innovative proje
     </td>
   </tr>
 </table>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elharaka&label=Current%20Visitors&color=0e75b6&style=flat" alt="elharaka" /> </p>
