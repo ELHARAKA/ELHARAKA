@@ -10,6 +10,26 @@ I'm deeply invested in exploring AI's potential within DeFi to automate and opti
 
 Feel free to reach out if you're interested in collaborating on innovative projects or if you need guidance in navigating the complex world of blockchain and AI. Let's build something great together!
 
+<h3 align="center">Connect with me:</h3>
+<table align="center" style="width: 100%;">
+  <tr>
+    <td
+      <a href="https://medium.com/@fahdweb3dev" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fahdweb3dev" height="30" width="auto" />
+      </a>
+    </td>
+    <td
+      <a href="https://t.me/Thisiswhosthis" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" width="auto" />
+      </a>
+    </td>
+    <td
+      <a href="https://web3dev.ma/" target="blank">
+        <img src="https://pub-4921d2344b4d4baab627f5944ec5b7b0.r2.dev/Archive%2Fassets%2Fweb3dev_svg.svg" height="30" width="auto" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 - 🔭 I’m currently working on [TelegramPayment Bot](https://t.me/PlatinumSpotBot)
 
@@ -82,26 +102,5 @@ Feel free to reach out if you're interested in collaborating on innovative proje
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td align="center" style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elharaka&locale=en" alt="elharaka" /></td>
-  </tr>
-</table>
-
-<h3 align="center">Connect with me:</h3>
-<table align="center" style="width: 100%;">
-  <tr>
-    <td
-      <a href="https://medium.com/@fahdweb3dev" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fahdweb3dev" height="30" width="auto" />
-      </a>
-    </td>
-    <td
-      <a href="https://t.me/Thisiswhosthis" target="blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" width="auto" />
-      </a>
-    </td>
-    <td
-      <a href="https://web3dev.ma/" target="blank">
-        <img src="https://pub-4921d2344b4d4baab627f5944ec5b7b0.r2.dev/Archive%2Fassets%2Fweb3dev_svg.svg" height="30" width="auto" />
-      </a>
-    </td>
   </tr>
 </table>
