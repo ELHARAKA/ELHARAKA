@@ -31,7 +31,7 @@ Feel free to reach out if you're interested in collaborating on innovative proje
   </tr>
 </table>
 
-- 🔭 I’m currently working on [TelegramPayment Bot](https://t.me/PlatinumSpotBot)
+- 🔭 I’m currently working on [TG-Pay](https://t.me/TG_PAY_Bbot) a Telegram subscription bot.
 
 - 🌱 I’m currently learning **Advanced Blockchain Solutions, AI in DeFi**
 
