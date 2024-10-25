@@ -31,23 +31,15 @@ Feel free to reach out if you're interested in collaborating on innovative proje
   </tr>
 </table>
 
-- 🔭 I’m currently working on [TG-Pay](https://t.me/TG_PAY_Bbot) a Telegram subscription bot.
-
 - 🌱 I’m currently learning **Advanced Blockchain Solutions, AI in DeFi**
 
-- 🤝 I’m looking for help with [SnipeGenius](https://github.com/ELHARAKA/SnipeGenius)
-
 - 👨‍💻 All of my projects are available at [https://github.com/ELHARAKA?tab=repositories](https://github.com/ELHARAKA?tab=repositories)
-
-- 📝 I regularly write articles on [https://fahdweb3dev.medium.com](https://fahdweb3dev.medium.com)
 
 - 💬 Ask me about **Python, React, Vue, and Web3 technologies**
 
 - 📫 Reach me at **fahd@web3dev.ma**
 
 - 📄 Know about my experiences [https://web3dev.ma](https://web3dev.ma)
-
-- ⚡ Fun fact **I’m an avid mountain biker. Just like in blockchain development, I enjoy tackling rough terrains and challenging paths.**
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
