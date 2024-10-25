@@ -13,18 +13,18 @@ Feel free to reach out if you're interested in collaborating on innovative proje
 <h3 align="center">Connect with me:</h3>
 <table align="center" style="width: 100%;">
   <tr>
-    <td
-      <a href="https://medium.com/@fahdweb3dev" target="blank">
+    <td>
+      <a href="https://medium.com/@fahdweb3dev" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fahdweb3dev" height="30" width="auto" />
       </a>
     </td>
-    <td
-      <a href="https://t.me/Thisiswhosthis" target="blank">
+    <td>
+      <a href="https://t.me/Thisiswhosthis" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" width="auto" />
       </a>
     </td>
-    <td
-      <a href="https://web3dev.ma/" target="blank">
+    <td>
+      <a href="https://web3dev.ma/" target="_blank">
         <img src="https://pub-4921d2344b4d4baab627f5944ec5b7b0.r2.dev/Archive%2Fassets%2Fweb3dev_svg.svg" height="30" width="auto" />
       </a>
     </td>
